@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/StarLink/static/css/main.99e18e58.chunk.css",
-    "main.js": "/StarLink/static/js/main.39adc9aa.chunk.js",
-    "main.js.map": "/StarLink/static/js/main.39adc9aa.chunk.js.map",
-    "runtime-main.js": "/StarLink/static/js/runtime-main.4ecc1a88.js",
-    "runtime-main.js.map": "/StarLink/static/js/runtime-main.4ecc1a88.js.map",
-    "static/css/2.e8d3333d.chunk.css": "/StarLink/static/css/2.e8d3333d.chunk.css",
-    "static/js/2.f9d088d4.chunk.js": "/StarLink/static/js/2.f9d088d4.chunk.js",
-    "static/js/2.f9d088d4.chunk.js.map": "/StarLink/static/js/2.f9d088d4.chunk.js.map",
-    "static/js/3.6db194ba.chunk.js": "/StarLink/static/js/3.6db194ba.chunk.js",
-    "static/js/3.6db194ba.chunk.js.map": "/StarLink/static/js/3.6db194ba.chunk.js.map",
-    "index.html": "/StarLink/index.html",
-    "static/css/2.e8d3333d.chunk.css.map": "/StarLink/static/css/2.e8d3333d.chunk.css.map",
-    "static/css/main.99e18e58.chunk.css.map": "/StarLink/static/css/main.99e18e58.chunk.css.map",
-    "static/js/2.f9d088d4.chunk.js.LICENSE.txt": "/StarLink/static/js/2.f9d088d4.chunk.js.LICENSE.txt",
-    "static/media/satelite.d327b26a.svg": "/StarLink/static/media/satelite.d327b26a.svg",
-    "static/media/spacex_logo.ad25dfff.svg": "/StarLink/static/media/spacex_logo.ad25dfff.svg"
+    "main.css": "/static/css/main.99e18e58.chunk.css",
+    "main.js": "/static/js/main.0f5f7617.chunk.js",
+    "main.js.map": "/static/js/main.0f5f7617.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.743c6abb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.743c6abb.js.map",
+    "static/css/2.e8d3333d.chunk.css": "/static/css/2.e8d3333d.chunk.css",
+    "static/js/2.285cc269.chunk.js": "/static/js/2.285cc269.chunk.js",
+    "static/js/2.285cc269.chunk.js.map": "/static/js/2.285cc269.chunk.js.map",
+    "static/js/3.6db194ba.chunk.js": "/static/js/3.6db194ba.chunk.js",
+    "static/js/3.6db194ba.chunk.js.map": "/static/js/3.6db194ba.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e8d3333d.chunk.css.map": "/static/css/2.e8d3333d.chunk.css.map",
+    "static/css/main.99e18e58.chunk.css.map": "/static/css/main.99e18e58.chunk.css.map",
+    "static/js/2.285cc269.chunk.js.LICENSE.txt": "/static/js/2.285cc269.chunk.js.LICENSE.txt",
+    "static/media/satelite.d327b26a.svg": "/static/media/satelite.d327b26a.svg",
+    "static/media/spacex_logo.ad25dfff.svg": "/static/media/spacex_logo.ad25dfff.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ecc1a88.js",
+    "static/js/runtime-main.743c6abb.js",
     "static/css/2.e8d3333d.chunk.css",
-    "static/js/2.f9d088d4.chunk.js",
+    "static/js/2.285cc269.chunk.js",
     "static/css/main.99e18e58.chunk.css",
-    "static/js/main.39adc9aa.chunk.js"
+    "static/js/main.0f5f7617.chunk.js"
   ]
 }
